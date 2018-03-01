@@ -2,3 +2,4 @@
 #excepciones
 /vendor
 /node_modules
+/laravel/public/images/etiquetas/*
